@@ -37,8 +37,9 @@ Participants should bring a laptop with a python 3.x environment. See [setup ins
 
 Unit | Topic | Code
 ----|----|----
-1 | Data Science with `python`, `jupyter`, and `VS Code` (self-study) | [.py](https://github.com/IngoScholtes/mathplus2022-tutorial/blob/master/code/1_vscode_jupyter.py)
-2 | Analysis and Visualisation of Path Data in [`pathpy`](http://www.pathpy.net) (10 min) | [.ipynb](https://github.com/IngoScholtes/mathplus2022-tutorial/blob/master/code/2_pathpy.ipynb) 
+1 | Data Science with `python`, `jupyter`, and `VS Code` (self-study) | [.py](https://github.com/IngoScholtes/mathplus2022-tutorial/blob/master/code/0_vscode_jupyter.py)
+2 | Analysis and Visualisation of Path Data in [`pathpy`](http://www.pathpy.net) (10 min) | [.ipynb](https://github.com/IngoScholtes/mathplus2022-tutorial/blob/master/code/1_intro_pathpy.ipynb) 
+3 | Temporal Networks in [`pathpy`](http://www.pathpy.net) (10 min) | [.ipynb](https://github.com/IngoScholtes/mathplus2022-tutorial/blob/master/code/2_temporal_networks.ipynb) 
 3 | Fitting and Visualising Higher-order Network Models (10 min) |  [.ipynb](https://github.com/IngoScholtes/mathplus2022-tutorial/blob/master/code/3_higher_order.ipynb)
 / | **Coffee Break** | /
 4 | Time-stamped Network Analysis in [`pathpy`](http://www.pathpy.net) (20 min) | [.ipynb](https://github.com/IngoScholtes/mathplus2022-tutorial/blob/master/code/4_temporal_networks.ipynb)
