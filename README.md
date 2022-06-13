@@ -1,4 +1,4 @@
-# Higher-Order Network Analytics for Time-Stamped Data on Social Interactions
+# From Networks to Optimal Higher-Order Models of Complex Systems
 
 This repository, contains material for the interactive tutorial that accompanies the lecture **From Networks to Optimal Higher-Order Models of Complex Systems** held at the MATH+ Summer School in Berlin.
 
